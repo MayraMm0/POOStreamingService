@@ -1,0 +1,10 @@
+# ninja log v6
+2	315	1749569033519397273	build.ninja	176b6bbfedfe85c1
+822	1024	7712000753547332	ServicioStreamingSP.exe	26c543d5e1c210b5
+2	783	1749569035699284766	CMakeFiles/ServicioStreamingSP.dir/Episodio.cpp.o	878307d822061219
+2	835	1749569035698871640	CMakeFiles/ServicioStreamingSP.dir/Pelicula.cpp.o	f37a062bfda54b7a
+1	878	1749569035698504973	CMakeFiles/ServicioStreamingSP.dir/Video.cpp.o	c427c2dc21f7456d
+3	916	1749569035699854268	CMakeFiles/ServicioStreamingSP.dir/Funciones.cpp.o	ea5050950d0b40fe
+1	927	1749569035697748679	CMakeFiles/ServicioStreamingSP.dir/main.cpp.o	4c2c0dab2a2115cf
+2	936	1749569035698664806	CMakeFiles/ServicioStreamingSP.dir/Serie.cpp.o	21b74f2739fc0a90
+936	972	1749569036633351076	ServicioStreamingSP	5693c1e2d39069bf

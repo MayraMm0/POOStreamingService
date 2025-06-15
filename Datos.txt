@@ -1,0 +1,150 @@
+Pelicula
+id = 1
+nombre = Batman
+duracion = 150
+genero = accion
+calificacion = 8.9
+anio = 2022
+
+Pelicula
+id = 2
+nombre = Rio
+duracion = 140
+genero = animacion
+calificacion = 10
+anio = 2011
+
+Pelicula
+id = 3
+nombre = Rio 2
+duracion = 180
+genero = animacion
+calificacion = 9.2
+anio = 2019
+
+Serie
+id = 4
+nombre = Dark
+genero = suspenso
+calificacion = 9.4
+temporadas = 3
+episodios = 2
+titulo = Viajeros
+temporada = 1
+calificacion = 9.0
+titulo = Ciclos
+temporada = 1
+calificacion = 8.8
+
+Pelicula
+id = 5
+nombre = Crods
+duracion = 180
+genero = fantasia
+calificacion = 10.0
+anio = 2014
+
+Pelicula
+id = 6
+nombre = Karatekid Legends
+duracion = 190
+genero = accion
+calificacion = 7.0
+anio = 2025
+
+
+Pelicula
+id = 7
+nombre = Interestelar
+duracion = 169
+genero = ciencia ficcion
+calificacion = 9.0
+anio = 2014
+
+Pelicula
+id = 8
+nombre = La La Land
+duracion = 128
+genero = romance
+calificacion = 8.5
+anio = 2016
+
+Pelicula
+id = 9
+nombre = Soul
+duracion = 100
+genero = animacion
+calificacion = 9.1
+anio = 2020
+
+Pelicula
+id = 10
+nombre = Joker
+duracion = 122
+genero = drama
+calificacion = 8.6
+anio = 2019
+
+Pelicula
+id = 11
+nombre = Encanto
+duracion = 99
+genero = animacion
+calificacion = 7.9
+anio = 2021
+
+Pelicula
+id = 12
+nombre = Dune
+duracion = 155
+genero = ciencia ficcion
+calificacion = 8.4
+anio = 2021
+
+Serie
+id = 13
+nombre = Stranger Things
+genero = ciencia ficcion
+calificacion = 8.7
+temporadas = 4
+episodios = 3
+titulo = El otro lado
+temporada = 1
+calificacion = 8.9
+titulo = La desaparicion
+temporada = 1
+calificacion = 8.7
+titulo = El portal
+temporada = 2
+calificacion = 9.0
+
+Serie
+id = 14
+nombre = Breaking Bad
+genero = drama
+calificacion = 9.6
+temporadas = 5
+episodios = 3
+titulo = Piloto
+temporada = 1
+calificacion = 9.5
+titulo = Ozymandias
+temporada = 5
+calificacion = 10.0
+titulo = Felina
+temporada = 5
+calificacion = 9.9
+
+Serie
+id = 15
+nombre = The Mandalorian
+genero = accion
+calificacion = 8.8
+temporadas = 2
+episodios = 2
+titulo = El niño
+temporada = 1
+calificacion = 8.6
+titulo = El rescate
+temporada = 2
+calificacion = 9.0

@@ -1,0 +1,3 @@
+/Users/mayra_190/Documents/Proyecto Integrador - ServicioStreamingSP/cmake-build-debug/CMakeFiles/ServicioStreamingSP.dir
+/Users/mayra_190/Documents/Proyecto Integrador - ServicioStreamingSP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mayra_190/Documents/Proyecto Integrador - ServicioStreamingSP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
